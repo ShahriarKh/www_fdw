@@ -1,7 +1,7 @@
 Status
 ======
 
-This project is no longer maintained. Fill free to clone it and fix for new postgresql versions. You can let me know (email address below) if you have it working, I'll put link here to your repository.
+This project is no longer maintained. Feel free to clone it and fix for new postgresql versions. You can let me know (email address below) if you have it working, I'll put link here to your repository.
 
 www_fdw
 =======
